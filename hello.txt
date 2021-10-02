@@ -12,4 +12,5 @@ hello cui ! hello git!
 hello cui ! hello git!
 hello cui ! hello git!
 hello cui ! hello git! master test
-hello cui ! hello git!
+hello cui ! hello git! hot-fix test
+
